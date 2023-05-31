@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+    color: white;
+}
+.are{
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 0;
+    color: red;
+    cursor: pointer;
+}
+are:hover{
+    background-color: black;
+    color: blue;
+
+}
+table,tr,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 50%;
+    height: auto;
+    text-align: left;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 320px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    cursor: pointer;
+    padding-top: 10px;
+}
+td{
+    height: 25px;
+    vertical-align: middle;
+}
+td:hover{
+    background-color: red;
+    color: yellow;
+}
+th:hover{
+    background-color: yellow;
+    color: blue;
+}
+span{
+    color: red;
+}
+.demo{
+    color: yellow;
+}
